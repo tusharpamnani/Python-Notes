@@ -49,7 +49,7 @@ Basic Loop:
             aka Definite loop as you know the exact bumber of times you want the loop to execute.
                 for i in range():
                     statement
-            range(start:end:step):
+            range(start: end: step):
                 Built-in function used to iterate over a sequence of numbers.
 
 Break Statement:
